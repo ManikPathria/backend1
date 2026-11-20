@@ -10,8 +10,8 @@
   "license": "ISC",
   "author": "Manik",
   "main": "index.js",
-  
   "devDependencies": {
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "prettier": "^3.10.1"
   }
 }
